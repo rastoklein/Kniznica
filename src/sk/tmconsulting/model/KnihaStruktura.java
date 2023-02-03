@@ -3,7 +3,7 @@ package sk.tmconsulting.model;
 
 //trieda model je zvlast v package, pre vytvaranie modelov, ktore budeme tahat do hlavnej triedy Kniznica
 
-public class Kniha {
+public class KnihaStruktura {
     //zadefinujeme premenne triedy, cize fields
 
     private String nazov;
